@@ -12,7 +12,7 @@ header{
     background-color: #2B597E;
     width: 100%;
     position: fixed; /*=> hat5ly al headr  yfdl sabtyob2a m3aya fl page hata lma anzl tht*/
-    z-index:99% ; /* by5ly al headr yfdl zaher fo2 wana b3ml scroll*/
+    z-index:1 ; /* by5ly al headr yfdl zaher fo2 wana b3ml scroll*/
     display: flex;
     justify-content: space-between;
     align-items: center;
